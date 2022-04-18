@@ -27,6 +27,27 @@ a {
     color: darkturquoise;
 } */
 
-.list-item > .list-link {
+/* .list .list-link {
     color: chartreuse;
+} */
+
+/* .list-item > .list-link {
+    color: chartreuse;
+} */
+
+/* .title {
+    color: tomato;
+}
+
+.title {
+    color: teal;
+} */
+
+.desc {
+    color: chartreuse;
+}
+
+body {
+    font-size: 24px;
+    color: blue;
 }
