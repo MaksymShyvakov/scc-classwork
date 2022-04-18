@@ -1,7 +1,32 @@
-h1 {
-    color: tomato;
+/* * {
+    margin: 0;
+} */
+
+/* h1 {
+    color: crimson;
 }
 
 p {
-    color: blueviolet;
+    color: fuchsia;
+}
+
+a {
+    color: teal;
+} */
+
+/* #desc,
+#second-desc {
+    color: firebrick;
+} */
+
+/* .desc {
+    color: aqua;
+} */
+
+/* [href] {
+    color: darkturquoise;
+} */
+
+.list-item > .list-link {
+    color: chartreuse;
 }
